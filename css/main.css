@@ -22,13 +22,16 @@
    align-items:start ;
    background-color: white;
    color: red;
+
+   
    }
    .button{
        background-color: red;
        color: white;
        width: 150px;
        height: 30px;
-       
+
+
    }
    .li2{
        display: flex;
